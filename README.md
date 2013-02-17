@@ -1,1 +1,3 @@
-<h1 style="font-size: 4em">tsk</h1>
+# tsk
+
+A tiny command-line program that helps developers track how long it takes to complete programming tasks and estimate time for new projects.

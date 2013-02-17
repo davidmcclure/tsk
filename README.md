@@ -1,3 +1,3 @@
 # tsk
 
-A tiny command-line program that helps programmers track how long it takes to complete  tasks and estimate time for new projects.
+A tiny command-line program that helps programmers (a) track how long it takes to complete tasks and (b) estimate time for new projects.
